@@ -14,6 +14,7 @@ public class App {
             System.out.println("3. Tabung");
             System.out.println("4. Exit");
             System.out.println("choose:");
+            System.out.println("update");
             choose = scanner.nextInt();
 
         switch (choose) {
